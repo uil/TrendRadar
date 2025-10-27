@@ -1,29 +1,7 @@
 {
-  "generated_at": "2025-10-27T23:03:16.406628+08:00",
-  "total_titles_processed": 1910,
+  "generated_at": "2025-10-28T00:02:59.930113+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "AI玩具",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
-          "url": "https://www.cls.cn/detail/2180802",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时03分 ~ 12时09分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/uil/TrendRadar/img/news.jpg"
 }
