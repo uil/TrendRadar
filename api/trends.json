@@ -1,26 +1,7 @@
 {
-  "generated_at": "2025-11-19T23:02:56.966662+08:00",
-  "total_titles_processed": 1879,
+  "generated_at": "2025-11-20T00:02:54.823371+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "AI玩具",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2025年我国AI玩具市场规模有望增至290亿元",
-          "url": "https://wallstreetcn.com/livenews/3007052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时02分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/uil/TrendRadar/img/news.jpg"
 }
