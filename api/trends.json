@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-27T11:21:38.481022+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2025-11-27T12:03:41.051239+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "AI玩具",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
+          "url": "https://www.cls.cn/detail/2212151",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/uil/TrendRadar/img/news.jpg"
 }
