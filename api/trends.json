@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-29T18:02:09.167047+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2025-11-29T19:02:26.947024+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "AI玩具",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
+          "url": "https://www.cls.cn/detail/2214770",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/uil/TrendRadar/img/news.jpg"
 }
