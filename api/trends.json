@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T17:02:34.855624+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2025-11-30T18:02:25.297572+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             11,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 17时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 18时02分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
