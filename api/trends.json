@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T08:03:04.183416+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2025-11-30T09:30:57.022171+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 08时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时30分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
           "url": "https://www.toutiao.com/trending/7578124515407970367/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 09时30分]"
         }
       ]
     }
