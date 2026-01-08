@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-08T23:04:10.487654+08:00",
-  "total_titles_processed": 2252,
+  "generated_at": "2026-01-09T00:03:19.974329+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "AI玩具",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "京东成立“变色龙业务部”，第二批自研AI玩具将于1月中旬全面上线",
-          "url": "https://wallstreetcn.com/livenews/3033016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/uil/TrendRadar/img/news.jpg"
 }
