@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-12T15:06:59.422838+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-01-12T16:02:56.234667+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "AI玩具",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
+          "url": "https://www.cls.cn/detail/2254695",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/uil/TrendRadar/img/news.jpg"
 }
