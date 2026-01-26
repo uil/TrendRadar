@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-01-27T03:06:38.767737+08:00",
-  "total_titles_processed": 500,
-  "failed_sources": [],
+  "generated_at": "2026-01-27T04:10:30.420234+08:00",
+  "total_titles_processed": 536,
+  "failed_sources": [
+    "toutiao",
+    "bilibili-hot-search",
+    "cls-hot",
+    "douyin"
+  ],
   "trends": [],
   "report_image_url": "https://github.com/uil/TrendRadar/img/news.jpg"
 }
