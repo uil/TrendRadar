@@ -128,6 +128,49 @@ rss:
       url: "https://finance.yahoo.com/news/rssindex"
       enabled: false                  # 禁用
 
+    # --- 学术前沿 (arXiv) ---
+    - id: "arxiv-robotics"
+      name: "arXiv - Robotics (cs.RO)"
+      url: "https://rss.arxiv.org/rss/cs.RO"
+      max_age_days: 3
+
+    - id: "arxiv-ai"
+      name: "arXiv - Artificial Intelligence (cs.AI)"
+      url: "https://rss.arxiv.org/rss/cs.AI"
+      max_age_days: 3
+
+    # --- 国际产业与机器人专业媒体 ---
+    - id: "robot-report"
+      name: "The Robot Report"
+      url: "https://www.therobotreport.com/feed/"
+      max_age_days: 3
+
+    - id: "robotics-auto-news"
+      name: "Robotics & Automation News"
+      url: "https://roboticsandautomationnews.com/feed/"
+      max_age_days: 3
+
+    - id: "robohub"
+      name: "Robohub"
+      url: "http://robohub.org/feed/"
+      max_age_days: 5
+
+    # --- 国内硬核科技与创投动态 ---
+    - id: "jiqizhixin"
+      name: "机器之心"
+      url: "https://www.jiqizhixin.com/rss"
+      max_age_days: 2
+
+    - id: "qbitai"
+      name: "量子位"
+      url: "https://www.qbitai.com/feed"
+      max_age_days: 2
+
+    - id: "36kr-robot"
+      name: "36氪 - 机器人频道"
+      url: "https://36kr.com/feed"
+      max_age_days: 2
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
